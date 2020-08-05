@@ -10,5 +10,6 @@ This is my little place on GitHub to share my weird codes 😂😅
 
 🏆  **Latest Achievements**
  -    Microsoft Certified: Azure Fundamentals [Verify](https://www.youracclaim.com/badges/4a0ba748-914c-4a41-8cdb-13eb76e7d2eb/linked_in)
+
 💻  **Blogs**
  -   Started [Buildwith.NET](https://www.buildwith.net) for sharing my ideas about .NET but 😴 ruined it 😅 
