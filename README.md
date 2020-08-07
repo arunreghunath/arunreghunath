@@ -1,4 +1,4 @@
-### Hi there  👋
+### Hi there, I'm Arun Reghunath 👋
 
 This is my little place on GitHub to share my weird codes 😂😅
 
