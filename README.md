@@ -11,10 +11,10 @@ This is my little place on GitHub to share my weird codes 😂😅
 🏆  **Latest Achievements**
  -    Microsoft Certified: Azure Fundamentals [Verify](https://www.youracclaim.com/badges/4a0ba748-914c-4a41-8cdb-13eb76e7d2eb/linked_in)
 
-📊   **This week on GitHub**
+📊   **Me on GitHub**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=arunreghunath&hide_title=true&hide_border=true&langs_count=5)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunreghunath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 💻  **Blogs**
  -   Started [Buildwith.NET](https://www.buildwith.net) for sharing my ideas about .NET but 😴 ruined it 😅
  
