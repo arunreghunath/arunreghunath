@@ -9,7 +9,8 @@ This is my little place on GitHub to share my weird codes 😂😅
 - ⚡ Fun ❤ 📸 🚗
 
 🏆  **Latest Achievements**
- -    Microsoft Certified: Azure Fundamentals [Verify](https://www.youracclaim.com/badges/4a0ba748-914c-4a41-8cdb-13eb76e7d2eb/linked_in)
+ -    Microsoft Certified: Azure Fundamentals [Verify](https://www.credly.com/badges/4a0ba748-914c-4a41-8cdb-13eb76e7d2eb)
+ -    Certified in Cybersecurity [Verify](https://www.credly.com/badges/bee02650-5a5e-4b61-bbcc-56ae1d5ca348)
 
 📊   **Me on GitHub**
 
